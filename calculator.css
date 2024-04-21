@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+    padding: 5px;
+    margin: auto;
+}
+
+.inputField
+{
+    background-color:blueviolet;
+    border: 2px solid blue;
+    border-radius: 5px;
+    height: 500 px;
+    width: 250px;
+    padding: 10px 15px;
+    margin: 100px 500px;
+}
+button{
+    padding: 10px 5px;
+    margin: 5px;
+    width: 70px;
+}
+#calculatorInput
+{
+    height: 30px;
+    width: 240px;
+
+}
